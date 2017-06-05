@@ -2,7 +2,7 @@
 # coding: latin-1
 # Autor:   Ingmar Stapel
 # Datum:   20170605
-# Version:   2.0
+# Version:   1.0
 # Homepage:   http://custom-build-robots.com
 # Dieses Programm ist das sogenannte Steuerprogramm fuer die 
 # Helligkeit z. B. eines LED Bandes ueber die Konsole und Tastatur
