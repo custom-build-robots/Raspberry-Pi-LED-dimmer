@@ -6,4 +6,5 @@ With this Python program and a Raspberry Pi you could build a LED dimmer. On the
 To control the L298N H-Bridge and the PCA9685 controller please use the Python program "L298NHBridgePCA9685.py" from this repository https://github.com/custom-build-robots/Motor-Driver-L298N-and-PCA9685.
 
 ## Video
+The video shows the technical setup and the LED strip.
 [![Raspberry Pi LED dimmer](https://i.ytimg.com/vi/ZKPT_O6oUOQ/0.jpg)](https://www.youtube.com/watch?v=ZKPT_O6oUOQ"-Y "LED Dimmer")
